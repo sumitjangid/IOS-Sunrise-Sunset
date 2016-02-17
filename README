@@ -1,0 +1,14 @@
+Name: Sumit Subhash Jangid
+Email: sumit.jangid@csu.fullerton.edu
+
+Sunset Application
+
+In this application user will have the following features:
+
+1. Using the GPS feature user can get his/her location in the form of latitude and longitude by click the button named “My Location”.  
+
+2. After getting the location user can check the time of the Sunrise and Sunset of that particular location by clicking again on the button named “My Location”.
+
+3. To give the better view user will have an interface with a sphere partitioned based on the Sunrise time and Sunset time respectively. 
+
+4. The user will also be notified with the respective date for Sunrise and Sunset.
